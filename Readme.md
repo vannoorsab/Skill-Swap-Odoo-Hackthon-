@@ -63,11 +63,11 @@ SkillSwap is a web-based platform that enables users to exchange skills and know
 ### Announcements
 - Admins can post announcements that are visible to all users.
 
-## Mockup / UI Preview
-- [ ] [Figma/Excalidraw Mockup](#) *(Add link here)*
+
 
 ## Demo
-- [Live App on Firebase Hosting](https://skillswap-4d16a.firebaseapp.com)
+- [Live App](https://skillsw.netlify.app/)
+- [Demo Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) 
 
 ## Team
 **Google's Tech Team**
