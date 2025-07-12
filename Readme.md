@@ -71,5 +71,6 @@ SkillSwap is a web-based platform that enables users to exchange skills and know
 
 ## Team
 **Google's Tech Team**
+- Dudekula Vannoor Sab
 
 
